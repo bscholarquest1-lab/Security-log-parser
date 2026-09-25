@@ -1,3 +1,4 @@
+![Python application](https://github.com)
 # Automated Security Log Parser
 
 ## Project Description
